@@ -4,7 +4,7 @@ const projects = [
   {
     id: 1,
     number: "01",
-    title: "Work Along",
+    title: "NexTask",
     description:"A full-stack Task Management web application built with the MERN stack featuring user authentication, task assignment, progress tracking, role-based access, and a responsive dashboard for efficient workflow management.",
       bg: "/images/projects/project1.png",
     skills: [
@@ -19,8 +19,8 @@ const projects = [
       "render.svg",
     ],
     align: "left",
-    github: "https://github.com/Ujjwal0192/task-manager-mern",
-    live: "https://work-along.onrender.com",
+    github: "https://github.com/Ujjwal0192/NexTask",
+    live: "https://nextask-frontend.onrender.com/",
   },
   {
     id: 2,
@@ -122,3 +122,4 @@ export default function Projects() {
     </section>
   );
 }
+
